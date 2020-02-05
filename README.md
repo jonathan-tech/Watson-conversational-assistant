@@ -1,14 +1,14 @@
 # Counciler-Conversational-Assistant
 
-### For this project I built a conversational assistant for Hudson County Community College. I specifically created the assistant that could help a student make an appointment to see  a counselor at either the North Hudson Campus or the Main Campus. This assistant also gives directions to the counselor that the user chooses and allows the user to cancel appointments as well.
+### This project was an assignment for my Operating systems class. I built a conversational assistant for Hudson County Community College. I created an assistant that could help a student make an appointment to see  a counselor at either the North Hudson Campus or the Main Campus. This assistant also gives directions to the counselor that the user chooses and allows the user to cancel appointments as well.
+link: https://integrations.us-south.assistant.watson.cloud.ibm.com/web/public/dd2c138e-8e08-4d10-a947-785961c6d6fb
 
 
 ## Functionality
-When the user opens the WeatherApp, a page will display with an empty input box and a button that reads "Add City". By submiting a City, the Python Script will call the OpenWeatherMap API and grab the Degrees, Description and Icon of that City. If Successful the City will show up at the bottom of the screen with the data that was grabed. The user can delete the City from the list if he or she wishes
+When the user opens the link, a page will display with a greeting and explain what the assistant can help you with. If you make you decide to make an appointment then the assistant will ask the user a series of questions to complete the application. The user can also as for the directions to the conciler and ask to cancel an appointment
 
 ## What I learned
-- How to build a user interface with html, css and bootstrap
-- Incorporating object oriented programming to an application
+- Incorporating A.I to a project
 - Incorporating django framework to an application
 - How to manipulate data from a database
 - How to access an API and collect information
